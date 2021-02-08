@@ -1,2 +1,4 @@
 # hello-world
-exercise repository
+just another repository
+
+(c) 2021 
